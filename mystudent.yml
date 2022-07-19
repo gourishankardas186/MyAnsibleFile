@@ -1,0 +1,22 @@
+---
+- mystudents:
+    - name: anil
+      phone: 9937546767
+      address:
+        doorno: 46
+        streetno: 2a
+        pincod: 765454
+
+    - name: binil
+      phone: 9877665459
+      address:
+          doorno: 87
+          streetno: 9y
+          pincod: 765876
+
+    - name: lilu
+      phone: 9937103849
+      address:
+            doorno: 81
+            streetno: 6r
+            pincod: 455787         
